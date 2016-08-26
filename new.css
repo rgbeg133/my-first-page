@@ -1,0 +1,45 @@
+body {
+    background-color: #ccffff;
+    max-width:700px;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 6px;
+}
+
+h1 {
+     color: #ff6666;
+     text-align: center;
+     font-size: 36px
+     font-family: 'Indie Flower', cursive;
+}
+
+p {
+     font-family: 'Yanone Kaffeesatz', sans-serif;
+     font-size: 16px;
+}
+ 
+img { 
+     max-width: 100%
+}
+
+
+/* unvisited link */
+a:link {
+    color: #ffb3ff;
+}
+
+/* visited link */
+a:visited {
+    color: #ccff66;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration none;
+}
+
+/* selected link */
+a:active {
+    color: #990033;
+}
+
